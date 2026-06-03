@@ -1,4 +1,4 @@
-# ⚡ AutoChange Infinite Reader
+[# ⚡ AutoChange Infinite Reader
 
 Công cụ tự động nối chương đọc truyện tranh liên tục – không cần chuyển trang thủ công.
 
@@ -76,3 +76,4 @@ Gặp lỗi? Liên hệ tại:
 ---
 
 > ⚠️ **Lưu ý:** Nếu chia sẻ hoặc chỉnh sửa lại code, vui lòng giữ nguyên Credit tác giả.
+](https://github.com/leanhminh2104/auto-change-image-comic)
